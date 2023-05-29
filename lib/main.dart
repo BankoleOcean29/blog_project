@@ -42,7 +42,7 @@ class _BlogState extends State<Blog> {
                     width: 80,
                   ),
                   Text(
-                    'The Iroko project',
+                    'The Irokoooo project',
                     style: TextStyle(fontSize: 30),
                   ),
                 ],
